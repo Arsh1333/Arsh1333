@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN&psig=AOvVaw2C6wADmfrD4a5-4p1gR0cG&ust=1727957077744000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCgsdnT74gDFQAAAAAdAAAAABAJ">
 
 
 - 🌱 I’m currently learning **Node JS & Express JS**
