@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=6c09b952nrwlt5188j2l1vrur6rvky0ukprf1jd8xcb32zro&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
-- 🌱 I’m currently learning **Node JS & Express JS**
+- 🌱 I’m currently building in **JavaScript**
 
 - 📫 How to reach me **pawar.arsh1333@gmail.com**
 
