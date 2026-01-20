@@ -1,5 +1,5 @@
 # 👋 Hi I am Arsh Pawar:
-🔭 I’m currently working Vocabengine<br>🌱 I’m currently learning about transformers<br>💬 Ask me about AI ML or NLP or web technologies<br>⚡ Fun fact I like to play 🎹
+🔭 I’m currently working on Vocabengine<br>🌱 I’m currently learning about transformers<br>💬 Ask me about AI ML or NLP or Web technologies<br>⚡ Fun fact I like to play 🎹
 
 
 ## 🌐 Socials:
